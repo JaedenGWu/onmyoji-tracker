@@ -1,0 +1,10 @@
+{
+  "name": "阴阳师手帖",
+  "short_name": "阴阳师手帖",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "lang": "zh-CN",
+  "icons": []
+}
